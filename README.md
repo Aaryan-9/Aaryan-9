@@ -31,3 +31,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aaryan-9&show_icons=true&locale=en" alt="Aaryan-9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryan-9&" alt="Aaryan-9" /></p>
+
+<h3>😂 Random Dev Meme</h3>
+<img src="https://randommeme-five.vercel.app/" style="height: 400px;">
+<hr>
+
+
