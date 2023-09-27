@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Data Science, Node.js, Express,js,DSA**
+- 🌱 I’m currently learning **Data Science, DSA and strenthening my backend skills**
 
 - 🤝 I’m looking for help with **DSA, Data Science**
 
