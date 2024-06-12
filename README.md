@@ -3,13 +3,13 @@
 
 
 
-- 🌱 I’m currently learning **Data Science, DSA and strenthening my backend skills**
+- 🌱 I’m currently learning **DSA and strenthening my backend skills**
 
-- 🤝 I’m looking for help with **DSA, Data Science**
+- 🤝Ask me about **MERN, Web Development**
 
 - 📫 How to reach me **aaryansingh6051@gmail.com**
 
-- ⚡ Fun fact **I am Batman**
+- ⚡ Fun fact **I am Batman, hehe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
