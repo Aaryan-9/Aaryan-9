@@ -2,14 +2,8 @@
 
 
 
-
-- 🌱 I’m currently learning **DSA and strenthening my backend skills**
-
-- 🤝Ask me about **MERN, Web Development**
-
 - 📫 How to reach me **aaryansingh6051@gmail.com**
 
-- ⚡ Fun fact **I am Batman, hehe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
