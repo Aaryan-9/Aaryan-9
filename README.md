@@ -1,12 +1,14 @@
 # Aaryan Anil Kumar Singh
 
-SDE Intern at Cashfree Payments · Building agent infrastructure and MCP tooling · IIIT Kota
+SDE-1 at Cashfree Payments · Building agent infrastructure and MCP tooling · IIIT Kota
 
 ---
 
 ## Experience
 
-**SDE Intern — Cashfree Payments** `June 2025 – Present`
+**SDE-1 — Cashfree Payments** `June 2026 – Present`
+
+**SDE Intern — Cashfree Payments** `June 2025 – May 2026`
 MCP · AI Agents · TypeScript
 
 **Technical Intern — Bhejooo** `June 2024 – September 2024`
