@@ -20,7 +20,7 @@ I build AI agent systems: multi-agent orchestration, zero-trust tool access, and
 | [ai-slop-remover](https://github.com/Aaryan-9/ai-slop-remover) | Local-first CLI that detects the artifacts AI coding tools leave behind via deterministic AST analysis across 9 languages, then hands your agent a fix plan |
 | [toolwire](https://github.com/Aaryan-9/toolwire) | Framework-agnostic tool registry for LLM agents with Zod validation |
 
-## Earlier at Cashfree (SDE Intern, 2024–2026)
+## Earlier at Cashfree (SDE Intern)
 
 Architected a multi-agent orchestration system in Slack serving 200+ daily requests across five teams, with RBAC-gated tool calling over internal APIs, Redshift, Kibana, and a GraphDB. Cut data lookups from hours to under 30 seconds. Also built a Go pipeline that parsed alerting configs across 250+ microservices and auto-generated 550+ Jira tickets.
 
