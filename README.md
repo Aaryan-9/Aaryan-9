@@ -1,6 +1,6 @@
 # Aaryan Singh
 
-**AI Engineer / SDE-1 at Cashfree Payments** · Building production agent infrastructure for one of India's largest payment gateways · IIIT Kota CSE '26
+**SDE-1 at Cashfree Payments** · Building production agent infrastructure for one of India's largest payment gateways · IIIT Kota CSE '26
 
 I build AI agent systems: multi-agent orchestration, zero-trust tool access, and developer tooling that ships to thousands of merchants.
 
